@@ -8,7 +8,6 @@
 
     
     
-
 # 2. Activation Layer
     
     
@@ -26,14 +25,19 @@
     
 # 4. Flattening
     
-    
-    
+    Converts the multidimensional array to single dimensions.
+
+
 # 5. Full Connection
   
+    
+    
 
 
 
 # 6. Padding 
+
+    Applying 0's at the edges.    
 
 
 # 7. Stridding 
@@ -43,7 +47,7 @@
     When Stride = 1, filter moves 1 pixel at a time.
     When Stride = 2, filter moves 2 pixel at a time.
 
-# 8. 
+
 
 
 
