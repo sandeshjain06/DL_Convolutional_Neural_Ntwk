@@ -1,4 +1,7 @@
-# Convolutional Neural Networks** 
+# Convolutional Neural Networks
+
+    Convolutional Neural Networks (CNNs) have an input layer, an output layer, numerous hidden layers, and millions of parameters, allowing them to learn complicated   objects and patterns. It uses convolution and pooling processes to sub-sample the given input before applying an activation function, where all of them are hidden layers that are partially connected, with the completely connected layer at the end resulting in the output layer. The output shape is similar to the size of the 
+input image.
 
 
 **Steps to Achieve CNN Algorithm**
