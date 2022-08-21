@@ -14,10 +14,15 @@
     
 # 1. Convolution Layer
 
-    
+    Convolution layer is the first layer to extract features from an input image. 
+    By learning image features using a small square of input data, the convolutional layer preserves the relationship between pixels. 
+    It is a mathematical operation which takes two inputs such as image matrix and a kernel or filter.
     
 # 2. Activation Layer
     
+    Rectified Linear unit(ReLU) transform functions only activates a node if the input is above a certain quantity. 
+    While the data is below zero, the output is zero, but when the information rises above a threshold. 
+    It has a linear relationship with the dependent variable.
     
     
 # 3. Pooling 
@@ -36,12 +41,11 @@
     Converts the multidimensional array to single dimensions.
 
 
-# 5. Full Connection
+# 5. Full Connected Layer
   
+    The fully connected layer is a layer in which the input from the other layers will be flattened into a vector and sent. 
+    It will transform the output into the desired number of classes by the network.
     
-    
-
-
 
 # 6. Padding 
 
