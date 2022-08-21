@@ -6,6 +6,9 @@
     connected layer at the end resulting in the output layer. The output shape is similar to the size of the input image.
 
 
+![image](https://user-images.githubusercontent.com/91243691/185791988-d8d56ac2-91db-42ae-b7f3-8136071f690f.png)
+
+
 **Steps to Achieve CNN Algorithm**
 
     
