@@ -15,8 +15,12 @@
 # 1. Convolution Layer
 
     Convolution layer is the first layer to extract features from an input image. 
-    By learning image features using a small square of input data, the convolutional layer preserves the relationship between pixels. 
-    It is a mathematical operation which takes two inputs such as image matrix and a kernel or filter.
+    
+    Convolutional layers are made up of set of filters that are applied to input image.Also known as Kernels.
+    
+    Output of convolutional layer is feature map which is representation of input image with filters applied.
+    
+    
     
 # 2. Activation Layer
     
